@@ -30,3 +30,6 @@ ggplot(data = ces, aes(x=white_percent, y=ces_3_0_score)) +
   theme_minimal()
 ```
 
+## Description of Graph:
+The above graph displays how the CalEnvrioScreen Score, a measure of pollution burdens and vulnerable population characteristics, changes inversely with the amount of a population identifying as white. This is a graphical representation of the environmental injustices frequently faced by minority communities after years of poor land-use planning and disinvestment. 
+
